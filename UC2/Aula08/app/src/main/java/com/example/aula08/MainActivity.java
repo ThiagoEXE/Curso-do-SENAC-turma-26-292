@@ -10,20 +10,20 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button btn;
-    EditText data, cep, endereco;
-    TextView saida;
+//    Button btn;
+//    EditText data, cep, endereco;
+//    TextView saida;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        data.findViewById(R.id.data);
-        cep.findViewById(R.id.cep);
-        endereco.findViewById(R.id.endereco);
+        EditText data = findViewById(R.id.data);
+        EditText cep = findViewById(R.id.cep);
+        EditText endereco = findViewById(R.id.endereco);
 
-        saida.findViewById(R.id.saida);
-        btn.findViewById(R.id.btn);
+        TextView saida = findViewById(R.id.saida);
+        Button btn = findViewById(R.id.btn);
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -45,10 +45,10 @@ public class MainActivity extends AppCompatActivity {
                     }
                     if(!cadastro){
                         StringBuilder sb = new StringBuilder();
-                        sb.append("" + data)
-                                .append("" + endereco)
-                                .append("" + cep);
-                        saida.setText(sb.toString());
+                        sb.append("Cep: " + cep1 + "\n")
+                                .append("Endereço: " + endereco1 + "\n")
+                                .append("Data de Nascimento:" + data1 + "\n");
+                        saida.setText(sb.toString().trim());
                     }
                 }
             }

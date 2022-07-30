@@ -44,7 +44,7 @@
             android:layout_width="350dp"
             android:layout_height="48dp"
             android:hint="Endereço"
-            android:maxLength="9"
+            android:maxLength="200"
             />
     </android.support.design.widget.TextInputLayout>
 
