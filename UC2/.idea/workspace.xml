@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3e11201-d7e2-41f4-ad08-a32f40dae1ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula13/app/src/main/res/layout/primeiro_widget.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChipGroup/app/src/main/res/drawable/ic_baseline_clear_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/bg_track.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_baseline_power_off.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_baseline_power_on.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_baseline_toggle_off_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_baseline_toggle_on_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_iconmonstr_control_panel_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_iconmonstr_control_panel_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_iconmonstr_shape_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_toggle_left_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/ic_toggle_right_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/light_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/light_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchButton/app/src/main/res/drawable/selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable-v24/iconmonstr-shape-10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable-v24/light_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable-v24/light_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable/bg_track.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable/ic_baseline_power_on.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable/ic_iconmonstr_shape_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToggleButton20/app/src/main/res/drawable/selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToogleButtonAula12/app/src/main/res/drawable/ic_baseline_power_on.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToogleButtonAula12/app/src/main/res/drawable/selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetAula14/app/src/main/java/com/example/widgetaula14/ExampleAppWidgetProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetAula14/app/src/main/res/layout/example_widget.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetAula14/app/src/main/res/xml/example_appwidget_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/java/com/example/widgetnewtest/PrimeiroWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/drawable-nodpi/example_appwidget_preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/drawable-v21/app_widget_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/layout/primeiro_widget.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values-night-v31/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values-v31/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WidgetNewTest/app/src/main/res/xml/primeiro_widget_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/androidTest/java/com/example/wisgwtaula13new/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/java/com/example/wisgwtaula13new/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/java/com/example/wisgwtaula13new/PrimeiroWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/layout/primeiro_widget.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/main/res/xml/primeiro_widget_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/app/src/test/java/com/example/wisgwtaula13new/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WisgwtAula13New/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Culy1Yf5fNUamugEnnJBAZc9t8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula11" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3e11201-d7e2-41f4-ad08-a32f40dae1ef" name="Changes" comment="" />
+      <created>1659660618499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659660618499</updated>
+    </task>
+    <servers />
+  </component>
+</project>
