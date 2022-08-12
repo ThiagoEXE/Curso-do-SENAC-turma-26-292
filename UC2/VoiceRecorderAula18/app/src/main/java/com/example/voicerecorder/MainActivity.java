@@ -132,6 +132,7 @@ public class MainActivity extends AppCompatActivity {
         ibPlay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                isPlaying = true;
                 if(isPlaying){
                     if(path !=null){
                         try {
@@ -149,7 +150,8 @@ public class MainActivity extends AppCompatActivity {
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
-                    mediaRecorder.start();
+                    mediaPlayer.start();
+
                     isPlaying=true;
                     ibPlay.setImageDrawable(ContextCompat.getDrawable(MainActivity.this, R.drawable.ic_baseline_pause_circle_outline_24));
                     runTimer();
@@ -193,7 +195,7 @@ public class MainActivity extends AppCompatActivity {
                         playAbleSeconds=dummySecond;
                         seconds=0;
                         handler.removeCallbacksAndMessages(null);
-                        ibPlay.setImageDrawable(ContextCompat.getDrawable(MainActivity.this, R.drawable.ic_baseline_keyboard_voice_24));
+                        ibPlay.setImageDrawable(ContextCompat.getDrawable(MainActivity.this, R.drawable.ic_baseline_play_circle_filled_24));
                         return;
                     }
                 }
