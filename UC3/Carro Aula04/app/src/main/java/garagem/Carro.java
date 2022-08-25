@@ -14,6 +14,18 @@ public class Carro {
         return cor;
     }
 
+    public void setCor(String cor) {
+        this.cor = cor;
+    }
+
+    public void setPreco(double preco) {
+        this.preco = preco;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
     public double getPreco() {
         return preco;
     }
