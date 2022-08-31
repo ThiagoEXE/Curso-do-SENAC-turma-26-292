@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private TextView txtExpressao, txtResultado;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -70,6 +71,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 txtResultado.setText("");
             }
         });
+        
 
         igual.setOnClickListener(new View.OnClickListener() {
             @Override

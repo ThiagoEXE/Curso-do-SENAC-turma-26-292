@@ -30,20 +30,25 @@ public class MainActivity extends AppCompatActivity {
 
         Carro carro = new Carro();
 
-        btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+        BrasiliaAmarela brasiliaAmarela = new BrasiliaAmarela("ddd","sss",52155);
+        saida.setText(String.valueOf(brasiliaAmarela.soma(14,15)));
 
-            String modelo1 = modelo.getText().toString();
-            double preco = Double.parseDouble(valor.getText().toString());
+
+
+//        btn.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
 //
-//            carro.setModelo(modelo1);
-//            carro.setPreco(preco);
-                Carro carro2 = new Carro(modelo1, preco);
-                 saida.setText( "Modelo: " +carro2.getModelo() +"\n"+ "Preço: " + carro2.getPreco() +
-                         "\n" +"Cor:"+ carro2.getCor());
-            }
-        });
+//            String modelo1 = modelo.getText().toString();
+//            double preco = Double.parseDouble(valor.getText().toString());
+////
+////            carro.setModelo(modelo1);
+////            carro.setPreco(preco);
+//                Carro carro2 = new Carro(modelo1, preco);
+//                 saida.setText( "Modelo: " +carro2.getModelo() +"\n"+ "Preço: " + carro2.getPreco() +
+//                         "\n" +"Cor:"+ carro2.getCor());
+//            }
+//        });
 
         //saida.setText(carro.getModelo() + carro.getCor() + carro.getPreco());
 //
