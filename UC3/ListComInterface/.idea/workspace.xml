@@ -13,16 +13,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6176a884-16b7-459a-bfa6-79cf4a82445c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/listcominterface/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListaItens/app/src/main/java/com/example/listadeitens/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ListaItens/app/src/main/java/com/example/listadeitens/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlitePOO/app/src/main/res/layout/item_lista.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ZF5239QJ5L]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\VINICIUS\.android\avd\Emulador.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -130,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
