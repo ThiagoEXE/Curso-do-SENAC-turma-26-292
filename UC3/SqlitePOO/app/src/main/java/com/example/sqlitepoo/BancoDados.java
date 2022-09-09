@@ -49,4 +49,15 @@ public class BancoDados extends SQLiteOpenHelper{
         db.insert(TABELA_CLIENTE, null, values);
         db.close();
     }
+
+    public void apagarCliente(Cliente cliente){
+        try {
+            SQLiteDatabase db = this.getWritableDatabase();
+
+            db.delete(TABELA_CLIENTE, COLUNA_CODIGO + " = ?", new String[]{String.valueOf(cliente.getCodigo())});
+            db.close();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
 }

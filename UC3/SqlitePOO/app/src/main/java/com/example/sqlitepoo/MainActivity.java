@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     EditText editCodigo, editNome, editEmail, editTelefone;
     Button btnLimpar, btnSalvar, btnExcluir;
     ListView listViewClientes;
-    BancoDados db = new BancoDados(this);
+    BancoDados db = new BancoDados(MainActivity.this);
 
 
     @Override
@@ -34,7 +34,15 @@ public class MainActivity extends AppCompatActivity {
 
         /*TESTE DO CRUD*/
 
-        db.addCliente(new Cliente("Thiago Barbosa","71 99351-7204","thsmotog@gmail.com"));
-        Toast.makeText(this, "Salvo com sucesso!", Toast.LENGTH_LONG).show();
+        //insert
+//        db.addCliente(new Cliente("Thiago Barbosa","71 99351-7204","thsmotog@gmail.com"));
+//        Toast.makeText(this, "Salvo com sucesso!", Toast.LENGTH_LONG).show();
+        Cliente cliente = new Cliente();
+        cliente.setCodigo(3);
+        cliente.setNome("Marcos");
+        cliente.setEmail("thsmotog@gmail.com");
+        cliente.setTelefone("71993517204");
+        db.apagarCliente(cliente);
+        Toast.makeText(MainActivity.this, "Apagado com sucesso!", Toast.LENGTH_LONG).show();
     }
 }
