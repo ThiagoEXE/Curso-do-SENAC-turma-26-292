@@ -9,6 +9,7 @@
 
     <EditText
         android:id="@+id/editCodigo"
+        android:enabled="false"
         android:layout_width="150px"
         android:layout_height="wrap_content"
         android:ems="10"
